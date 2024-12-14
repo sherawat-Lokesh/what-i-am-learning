@@ -3,4 +3,4 @@
 @12Dec2024
 I am Learning Typescript and also working on a project(React native)
 @15Dec2024
-watching Harkirat Typescript video
+watching Harkirat Typescript video (55 min watched)
